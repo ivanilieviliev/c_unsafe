@@ -18,7 +18,7 @@ namespace Ex1
 
 				handle.Free();
 			}
-			System.Console.WriteLine("Here!");
+			System.Console.WriteLine("Third commit!");
 		}
 	}
 }
